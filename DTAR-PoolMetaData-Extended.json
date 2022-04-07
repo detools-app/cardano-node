@@ -1,0 +1,33 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://detools.app/image/logo.png",
+    "url_png_logo": "https://detools.app/image/logo.png",
+    "location": "worldwide",
+    "social": {
+      "twitter_handle": "detoolsapp",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "Detools App",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Cardano network. Join us! Twitter: https://twitter.com/detoolsapp",
+      "server": "Flexible specs for optimal performance.",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "my-pool-ids": {
+    "0": "af2647d743f0e307dde0276eb6dde1a498b71523972ae5e707f9dddb"
+  }
+}
