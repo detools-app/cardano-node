@@ -1,6 +1,7 @@
 {
-"name": "DetoolsAppRed",
-"description": "detools.app Red",
-"ticker": "DTA-R",
-"homepage": "https://ada-red-node.detools.app"
+"name": "Detools.App Red",
+"description": "detools.app red",
+"ticker": "DTA",
+"homepage": "https://detools.app",
+"extended": "https://raw.githubusercontent.com/detools-app/cardano-node/main/DTAR-PoolMetaData-Extended.json" 
 }
