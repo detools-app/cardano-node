@@ -1,0 +1,32 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/detools-app/cardano-node/blob/main/icon_64x64.png?raw=true",
+        "url_png_logo": "https://github.com/detools-app/cardano-node/blob/main/logo_200x154.png?raw=true",
+        "location": "",
+        "social": {
+            "twitter_handle": "detoolsapp",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "detools-app"
+        },
+        "company": {
+            "name": "Detools.app",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Detools.app Stake is a highly performant, resilient and secure stake pool",
+            "server": "Automatic Backups | Multi-layer Security | DDoS Mitigation | 24/7 Monitoring",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "af2647d743f0e307dde0276eb6dde1a498b71523972ae5e707f9dddb"
+    }
+}
